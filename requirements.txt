@@ -1,0 +1,7 @@
+requests
+pandas
+openpyxl
+python-dotenv
+rapidfuzz>=3.0.0
+tenacity
+opinion-clob-sdk; python_version>='3.8'
